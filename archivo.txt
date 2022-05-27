@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+este es un archivo txt pero tambien es un readme 
+=======
 Hola
+>>>>>>> e64f6edc27db81771de87a68375fe305084f7b2c
